@@ -17,6 +17,7 @@ require "weibo_2/api/v2/search"
 require "weibo_2/api/v2/short_url"
 require "weibo_2/api/v2/suggestions"
 require "weibo_2/api/v2/remind"
+require "weibo_2/api/v2/location"
 require "weibo_2/strategy/auth_code"
 
 
